@@ -1,3 +1,15 @@
+docker deploy  over serverless
+
+## heroku
+
+## alibaba fcs
+
+## tencent cloud 
+
+
+backend api for airtable crm  app (multi store management)
+
+
 # email-verifier
 
 ✉️ A Go library for email verification without sending any emails.
